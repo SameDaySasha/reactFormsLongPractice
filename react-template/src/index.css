@@ -1,0 +1,15 @@
+.form-buttons {
+    margin: 12px 0;
+}
+.inventory-question {
+    display: flex;
+    flex-direction: row;
+}
+.inventory-prompt {
+    flex: 1 1 100%;
+}
+.inventory-select {
+    flex: 0 0 120px;
+    margin-left: 12px;
+    margin-top: 12px
+}
